@@ -30,7 +30,7 @@ ___
         CHICAGO_PUBLIC_SCHOOLS
         CHICAGO_CRIME_DATA
 
-### **Use Pytho/Pandas and SQL to answer questions**
+### **Use Python/Pandas and SQL to answer questions**
 
     1. Load the pandas and sqlite3 libraries and establish a connection to the database
     2. Use Pandas to load the data available in the provided links to dataframes. Use these dataframes to load data on to the database as required tables.
